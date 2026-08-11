@@ -1,0 +1,4 @@
+sales_order,customer_id,customer_name,order_value,credit_limit,current_exposure,risk_class,block_reason,status
+0090010482,100293,Acme Corp,45000,100000,115000,B,01 - Credit Limit Exceeded,HOLD
+0090010483,100411,Globex Ltd,12500,50000,46000,A,01 - Credit Limit Exceeded,HOLD
+0090010484,100852,Stark Ind,88000,200000,216000,C,02 - Overdue Open Items,HOLD
